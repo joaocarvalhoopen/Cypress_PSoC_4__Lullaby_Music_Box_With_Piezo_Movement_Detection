@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<blockRegMap version="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://cypress.com/xsd/cyblockregmap cyblockregmap.xsd" xmlns="http://cypress.com/xsd/cyblockregmap">
+  <block name="PWR" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+  <block name="R_1" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+  <block name="R_2" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+  <block name="GND_2" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+  <block name="SW_enter_movment_config" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+  <block name="GND_3" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+  <block name="Pin_negative_comparator" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+  <block name="Pin_P0_7_switch" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+  <block name="Pin_positive_comparator" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+  <block name="Pin_1_1_Piezo" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+  <block name="Piezo_disk" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+  <block name="PWM_PIEZO" BASE="0x0" SIZE="0x0" desc="" visible="true">
+    <block name="VMux_count" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+    <block name="VMux_reload" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+    <block name="VMux_start" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+    <block name="VMux_stop" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+    <block name="VMux_capture" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+    <block name="VMux_clock" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+    <block name="cy_m0s8_tcpwm_1" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+    <register name="COUNTER" address="0x40050108" bitWidth="32" desc="Current counter value" />
+    <register name="CC" address="0x4005010C" bitWidth="32" desc="Compare / capture value" />
+    <register name="CC_BUF" address="0x40050110" bitWidth="32" desc="Compare / capture buffer value" />
+    <register name="PERIOD" address="0x40050114" bitWidth="32" desc="Period value" />
+    <register name="PERIOD_BUF" address="0x40050118" bitWidth="32" desc="Period buffer value" />
+  </block>
+  <block name="Clock_PWM_PIEZO" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+  <block name="GlobalSignal" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+  <block name="isr_LPComparator" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+  <block name="GND_1" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+  <block name="LPComp_movement_detector" BASE="0x0" SIZE="0x0" desc="Low Power Comparator" visible="true">
+    <block name="cy_psoc4_lpcomp_1" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+    <register name="_CONFIG" address="0x400A0004" bitWidth="32" desc="LPCOMP configuration">
+      <field name="MODE1" from="1" to="0" access="RW" resetVal="" desc="Selects  speed for the comparator #1">
+        <value name="MED" value="00" desc="Medium speed" />
+        <value name="FAST" value="01" desc="Fast speed" />
+        <value name="SLOW" value="10" desc="Slow speed" />
+      </field>
+      <field name="HYST1" from="2" to="2" access="RW" resetVal="" desc="Selects hysteresis (10mV) for the comparator #1">
+        <value name="ENABLE" value="0" desc="Hysteresis enabled" />
+        <value name="DISABLE" value="1" desc="Hysteresis disabled" />
+      </field>
+      <field name="INTTYPE1" from="5" to="4" access="RW" resetVal="" desc="Sets which edge will trigger an IRQ for the comparator #1">
+        <value name="DISABLE" value="00" desc="Disabled" />
+        <value name="RISING" value="01" desc="Rising edge" />
+        <value name="FALLING" value="10" desc="Falling edge" />
+        <value name="BOTH" value="11" desc="Both rising and falling edges" />
+      </field>
+      <field name="OUT1" from="6" to="6" access="R" resetVal="" desc="Current output value of the comparator" />
+      <field name="ENABLE1" from="7" to="7" access="RW" resetVal="" desc="Enable comparator #1">
+        <value name="DISABLE" value="0" desc="Comparator disabled" />
+        <value name="ENABLE" value="1" desc="Comparator enabled" />
+      </field>
+      <field name="MODE2" from="9" to="8" access="RW" resetVal="" desc="Selects speed for the comparator #2">
+        <value name="MED" value="00" desc="Medium speed" />
+        <value name="FAST" value="01" desc="Fast speed" />
+        <value name="SLOW" value="10" desc="Slow speed" />
+      </field>
+      <field name="HYST2" from="10" to="10" access="RW" resetVal="" desc="Selects hysteresis (10mV) for the comparator #2">
+        <value name="ENABLE" value="0" desc="Hysteresis enabled" />
+        <value name="DISABLE" value="1" desc="Hysteresis disabled" />
+      </field>
+      <field name="INTTYPE2" from="13" to="12" access="RW" resetVal="" desc="Sets which edge will trigger an IRQ for the comparator #2">
+        <value name="DISABLE" value="00" desc="Disabled" />
+        <value name="RISING" value="01" desc="Rising edge" />
+        <value name="FALLING" value="10" desc="Falling edge" />
+        <value name="BOTH" value="11" desc="Both rising and falling edges" />
+      </field>
+      <field name="OUT2" from="14" to="14" access="R" resetVal="" desc="Current output value of the comparator #2" />
+      <field name="ENABLE2" from="15" to="15" access="RW" resetVal="" desc="Enable comparator #2">
+        <value name="DISABLE" value="0" desc="Comparator disabled" />
+        <value name="ENABLE" value="1" desc="Comparator enabled" />
+      </field>
+    </register>
+    <register name="_INTR" address="0x400A000C" bitWidth="32" desc="LPCOMP interrupt">
+      <field name="COMP1" from="0" to="0" access="RW" resetVal="" desc="Comparator #1 Interrupt: hardware sets this interrupt when comparator 0 triggers. Write with '1' to clear bit." />
+      <field name="COMP2" from="1" to="1" access="RW" resetVal="" desc="Comparator #2 Interrupt: hardware sets this interrupt when comparator 0 triggers. Write with '1' to clear bit." />
+    </register>
+    <register name="_INTR_SET" address="0x400A0010" bitWidth="32" desc="LPCOMP interrupt set register">
+      <field name="COMP1" from="0" to="0" access="RW" resetVal="" desc="Write with '1' to set corresponding bit in interrupt request register." />
+      <field name="COMP2" from="1" to="1" access="RW" resetVal="" desc="Write with '1' to set corresponding bit in interrupt request register." />
+    </register>
+    <register name="_TRIM_A" address="0x400AFF00" bitWidth="32" desc="LPCOMP trim A" />
+    <register name="_TRIM_B" address="0x400AFF04" bitWidth="32" desc="LPCOMP trim B" />
+  </block>
+</blockRegMap>

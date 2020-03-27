@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Source Files\PWM_sound_freq.c">
+<ExpandedNodeIds>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\TopDesign</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\PSoC4_PWM_sound_hybernate_movement_detection.cydwr</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Header Files</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Header Files\gen_lib_utils.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Header Files\PWM_sound_freq.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Source Files</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Source Files\main.c</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Source Files\PWM_sound_freq.c</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\Clock_PWM_PIEZO\Clock_PWM_PIEZO.c</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\Clock_PWM_PIEZO\Clock_PWM_PIEZO.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cy_boot\cm0gcc.ld</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cy_boot\Cm0Iar.icf</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cy_boot\Cm0RealView.scat</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cy_boot\Cm0Start.c</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cy_boot\core_cm0.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cy_boot\core_cm0_psoc4.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cy_boot\core_cmFunc.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cy_boot\core_cmInstr.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cy_boot\CyBootAsmGnu.s</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cy_boot\CyBootAsmIar.s</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cy_boot\CyBootAsmRv.s</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cy_boot\CyFlash.c</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cy_boot\CyFlash.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cy_boot\CyLib.c</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cy_boot\CyLib.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cy_boot\cypins.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cy_boot\cyPm.c</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cy_boot\cyPm.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cy_boot\cytypes.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cy_boot\cyutils.c</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\isr_LPComparator\isr_LPComparator.c</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\isr_LPComparator\isr_LPComparator.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\LPComp_movement_detector\LPComp_movement_detector.c</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\LPComp_movement_detector\LPComp_movement_detector.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\LPComp_movement_detector\LPComp_movement_detector_PM.c</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\Pin_1_1_Piezo\Pin_1_1_Piezo.c</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\Pin_1_1_Piezo\Pin_1_1_Piezo.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\Pin_1_1_Piezo\Pin_1_1_Piezo_aliases.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\Pin_negative_comparator\Pin_negative_comparator.c</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\Pin_negative_comparator\Pin_negative_comparator.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\Pin_negative_comparator\Pin_negative_comparator_aliases.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\Pin_P0_7_switch\Pin_P0_7_switch.c</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\Pin_P0_7_switch\Pin_P0_7_switch.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\Pin_P0_7_switch\Pin_P0_7_switch_aliases.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\Pin_positive_comparator\Pin_positive_comparator.c</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\Pin_positive_comparator\Pin_positive_comparator.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\Pin_positive_comparator\Pin_positive_comparator_aliases.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\PWM_PIEZO\PWM_PIEZO.c</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\PWM_PIEZO\PWM_PIEZO.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\PWM_PIEZO\PWM_PIEZO_PM.c</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cydevice_trm.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cydevicegnu_trm.inc</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cydeviceiar_trm.inc</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cydevicerv_trm.inc</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cydisabledsheets.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cyfitter.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cyfitter_cfg.c</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cyfitter_cfg.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cyfittergnu.inc</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cyfitteriar.inc</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cyfitterrv.inc</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\cymetadata.c</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source\PSoC4\project.h</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\TopDesign</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\PSoC4_PWM_sound_hybernate_movement_detection.cydwr</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\PSoC4_PWM_sound_hybernate_movement_detection.cydwr\Pins</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\PSoC4_PWM_sound_hybernate_movement_detection.cydwr\Analog</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\PSoC4_PWM_sound_hybernate_movement_detection.cydwr\Clocks</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\PSoC4_PWM_sound_hybernate_movement_detection.cydwr\Interrupts</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\PSoC4_PWM_sound_hybernate_movement_detection.cydwr\System</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\PSoC4_PWM_sound_hybernate_movement_detection.cydwr\Directives</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\PSoC4_PWM_sound_hybernate_movement_detection.cydwr\Flash Security</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Header Files</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Header Files\gen_lib_utils.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Header Files\PWM_sound_freq.h</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Source Files</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Source Files\main.c</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Source Files\PWM_sound_freq.c</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Generated_Source</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\TopDesign</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\TopDesign</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\PSoC4_PWM_sound_hybernate_movement_detection.gpdsc</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\PSoC4_PWM_sound_hybernate_movement_detection.rpt</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\PSoC4_PWM_sound_hybernate_movement_detection_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\PSoC4_PWM_sound_hybernate_movement_detection.gpdsc</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\PSoC4_PWM_sound_hybernate_movement_detection.rpt</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\PSoC4_PWM_sound_hybernate_movement_detection_timing.html</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\PSoC 4 Architecture TRM</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\PSoC 4200 Family Datasheet</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\System Reference Guides</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\System Reference Guides\cy_boot_v4_20</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\cy_clock_v2_20.pdf</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\cy_gsref_v2_0.pdf</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\cy_isr_v1_70.pdf</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\cy_pins_v2_10</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\cy_pins_v2_10\cy_pins_v2_10.pdf</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Gnd_v1_0</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Gnd_v1_0\Gnd_v1_0.pdf</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Potentiometer_v1_0.pdf</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Power_v1_0.pdf</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Resistor_v1_0.pdf</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Speaker_v1_0.pdf</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\SwitchSPST_v1_0.pdf</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\TCPWM_P4_v2_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\PSoC 4 Architecture TRM</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\PSoC 4200 Family Datasheet</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\System Reference Guides</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\System Reference Guides\cy_boot_v4_20</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\cy_clock_v2_20.pdf</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\cy_gsref_v2_0.pdf</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\cy_isr_v1_70.pdf</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\cy_pins_v2_10</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\cy_pins_v2_10\cy_pins_v2_10.pdf</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Gnd_v1_0</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Gnd_v1_0\Gnd_v1_0.pdf</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Potentiometer_v1_0.pdf</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Power_v1_0.pdf</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Resistor_v1_0.pdf</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\Speaker_v1_0.pdf</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\SwitchSPST_v1_0.pdf</v>
+<v>PSoC4_PWM_sound_hybernate_movement_detection-000\PSoC4_PWM_sound_hybernate_movement_detection\TCPWM_P4_v2_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\main.c" />
+<name v=".\TopDesign\TopDesign.cysch" />
+<name v=".\PSoC4_PWM_sound_hybernate_movement_detection.cydwr" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Vertical"><TabbedMdiContainer Size="1045, 581" SelectedTabbedMdiWindow="6f09f8d6-c588-46ce-9e9d-fb813735ec5a"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="91c05c03-659a-4c62-848e-4fac5674e32d" /><DocumentWindow Key="C:\PSoC_DIR\PSoC4_PWM_sound_hybernate_movement_detection.cydsn\main.c" Guid="8fc21f47-7a21-497e-900e-b9c50d2a4536" /><DocumentWindow Key="C:\PSoC_DIR\PSoC4_PWM_sound_hybernate_movement_detection.cydsn\TopDesign\TopDesign.cysch" Guid="6f09f8d6-c588-46ce-9e9d-fb813735ec5a" /><DocumentWindow Key="C:\PSoC_DIR\PSoC4_PWM_sound_hybernate_movement_detection.cydsn\PSoC4_PWM_sound_hybernate_movement_detection.cydwr" Guid="911ba621-374d-472e-bfd6-032ac3ed9457" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
